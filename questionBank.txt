@@ -1,0 +1,55 @@
+1 What is the y-intercept of the equation?
+y = 3x + 4
+potato
+A: 3 B: -4/3 C: 4 D: 7
+10 c
+2 Where is ONE root for the equation:
+y = x^2 + 4x + 5
+potato
+A: -2 B: 1 C: 4/5 D: None of the Above
+15 d
+3 What is an angle called when is exceeds PI radians?
+potato
+A: right u B: obtuse C: reflex D: acute
+20 c
+4 What is the area of a section of a circle with these constraints:
+The radius is 5
+The arc length of the section is 2PI
+potato
+A: 5 B: 5PI C: 10 D: 10PI
+25 b
+5 Which of the following is equivalent to this equation:
+[sin(x)^2 + cos(x)^2)] / [cos(x)^2]
+potato
+A: 1 B: sec(x)^2 C: tan(x) D: tan(x) + 1
+30 b
+6 What is the value of sin(v + w) if:
+sin(v) = 1/2
+sin(w) = 1
+potato
+A: 0 B: sqrt(3) C: sqrt(3) / 2 D: Undefined
+35 c
+7 What is the slope of the point
+y = [2x^3]/(x^[1/2])
+when x = 4
+potato
+A: -8 u B: 2 C: 8 D: 40
+50 d
+8 What is the area of the function
+x = [sin(y) * y^3]
+from the region -2 <= y <= 2
+potato
+A: 0 B: 5/4 PI C: 16 D: None of the Above
+50 a
+9 What is the indefinite integral of:
+f(x) = ln(x)
+potato
+A: log(ex) + C B: e^(x) + C C: (1/x) + C D: x(ln(x) - 1) + C
+60 d
+10 Find the density of a cube with dimensions (x, y, z) and with its mass defined as:
+m(x, y, z) = (5z*3x*y^2)
+at the point (3, 2, 3)
+Hint: using the formal definition of a derivative would help
+potato
+A: 51 B: 60 C: 27 D: 17
+80 b
